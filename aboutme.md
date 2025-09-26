@@ -52,7 +52,13 @@ SUN EDUCATIONAL SERVICES
 * Shell Programming for System Administrators
 * Solaris Systems Administration I and II
 
-**A fun tidbit**: I studied Japanese (日本語) for 5 years.  I've passed the first 2 JLPT proficiency exams, started studying for the 3rd but that is on the back burner. 
+## Fun tidbit 
+I studied Japanese (日本語) for 5 years.  I've passed the first 2 JLPT proficiency exams, started studying for the 3rd but that is on the back burner. 
+
+## Quotes from colleagues about me: 
+* "Great at organizing yourself and others around you. Especially, the way you managed such a diverse and multi-talented team is commendable. Always on top of things and do your best to keep the team and business goals aligned."
+* "When presented with a complex problem you will drill down to get all the nitty gritty details to see the true issue at hand."
+* "You're always doing something." 
 
 ---
 *"Strategy without tactics is the slowest route to victory, tactics without strategy is the noise before defeat." - Sun Tzu*
