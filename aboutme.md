@@ -12,7 +12,7 @@ Chances are you've stubmled across my site because...
 5. Randomly found it.
 
 ### Always learning
-At some point, or another, I've listed these classes on my resume. My resume has evolved over time and keep it concise. These are actual classes I've taken. By that, I mean I've had to sit in a classroom at least once a week.  The tech or versions can give you an idea about timelines. I'm not current in all the things. ie. Do you know who SUN is? It used to be a large company. 
+At some point, or another, I've listed these classes on my resume. My resume has evolved over time and I try to keep it concise. So why not here.  These are actual classes I've taken. By that, I mean I've had to sit in a classroom at least once a week.  The tech or versions can give you an idea about timelines. I'm not current in all the things. (ie. Do you know who SUN is? It used to be a large company. )
 
 SANS INSTITUTE
 * SEC 487 - Open-Source Intelligence (OSINT) Gathering and Analysis
@@ -52,4 +52,7 @@ SUN EDUCATIONAL SERVICES
 * Shell Programming for System Administrators
 * Solaris Systems Administration I and II
 
+**A fun tidbit**: I studied Japanese (日本語) for 5 years.  I've passed the first 2 JLPT proficiency exams, started studying for the 3rd but that is on the back burner. 
+
+---
 *"Strategy without tactics is the slowest route to victory, tactics without strategy is the noise before defeat." - Sun Tzu*
