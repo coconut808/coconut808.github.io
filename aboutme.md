@@ -19,7 +19,7 @@ SANS INSTITUTE
 * SEC 503 - Intrusion Detection In-Depth
 * SEC 504 - Hacker Tools, Techniques, and Incident Handling
 * SEC 511 - Continuous Monitoring and Security Operations
-* SEC 540 - Cloud Security and DevSecOps Automa4on
+* SEC 540 - Cloud Security and DevSecOps Automation
 * SEC 552 - Bug Bounties and Responsible Disclosure
 * SEC 560 - Network Penetration Testing and Ethnical Hacking
 * SEC 573 - Automating Information Security with Python
